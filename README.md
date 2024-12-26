@@ -1,6 +1,8 @@
 # StudBot - AI-Powered Educational & Utility Applications
 
 This repository contains a collection of AI-powered applications built using Streamlit and Google's Generative AI (Gemini). Each application serves a specific purpose to help users with different tasks.
+![Homepage-Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164414.png)
+
 
 ## Applications
 
@@ -13,7 +15,7 @@ An AI-powered nutrition analyzer that helps users track their calorie intake by 
 - Total calorie calculation
 - Nutritionist-style analysis
 
-![Screenshot](https://raw.githubusercontent.com/abdul25basit/studbot/main/screenshots/health_app.png)
+
 
 ### 2. ATS (Applicant Tracking System)
 A smart resume analyzer that helps job seekers optimize their resumes for specific job descriptions.
@@ -25,7 +27,7 @@ A smart resume analyzer that helps job seekers optimize their resumes for specif
 - Missing keywords identification
 - Profile summary generation
 
-!Screenshot](https://raw.githubusercontent.com/abdul25basit/studbot/main/screenshots/ats_app.png)
+
 
 ### 3. Invoice Extractor
 Multi-language invoice information extraction tool using AI vision capabilities.
@@ -36,7 +38,7 @@ Multi-language invoice information extraction tool using AI vision capabilities.
 - Multi-language support
 - Detailed invoice breakdown
 
-![Screenshot](https://raw.githubusercontent.com/abdul25basit/studbot/main/screenshots/invoice_app.png)
+
 
 ### 4. Chat with PDF
 An interactive PDF document analyzer that allows users to have conversations about PDF content.
@@ -48,7 +50,7 @@ An interactive PDF document analyzer that allows users to have conversations abo
 - Context-aware responses
 - Vector-based document search
 
-![Chat PDF Screenshot](https://raw.githubusercontent.com/abdul25basit/studbot/main/screenshots/chat_pdf.png)
+
 
 ## Additional Tools
 
@@ -56,8 +58,18 @@ An interactive PDF document analyzer that allows users to have conversations abo
 - **SQL LLM**: Natural language to SQL query converter
 - **ATS System**: Enhanced version of the ATS with visual resume analysis
 
+  
+## Screenshots
+!Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164424.png)
+
+![ Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164450.png)
+![Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164434.png)
+
+
 ## Setup Instructions
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/abdul25basit/studbot.git
+
+
