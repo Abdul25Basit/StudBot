@@ -1,7 +1,18 @@
 # StudBot - AI-Powered Educational & Utility Applications
 
-This repository contains a collection of AI-powered applications built using Streamlit and Google's Generative AI (Gemini). Each application serves a specific purpose to help users with different tasks.
 ![Homepage-Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164414.png)
+
+!Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164424.png)
+
+![ Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164450.png)
+![Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164434.png)
+
+
+
+
+
+This repository contains a collection of AI-powered applications built using Streamlit and Google's Generative AI (Gemini). Each application serves a specific purpose to help users with different tasks.
+
 
 
 ## Applications
@@ -59,11 +70,7 @@ An interactive PDF document analyzer that allows users to have conversations abo
 - **ATS System**: Enhanced version of the ATS with visual resume analysis
 
   
-## Screenshots
-!Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164424.png)
 
-![ Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164450.png)
-![Screenshot](https://github.com/Abdul25Basit/StudBot/blob/main/assets/Screenshot_20241226-164434.png)
 
 
 ## Setup Instructions
